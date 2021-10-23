@@ -1,0 +1,4 @@
+#Fri Oct 22 21:02:47 CDT 2021
+base.0=C\:\\Users\\robot\\Downloads\\mapps\\apprentice\\01-hello\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
